@@ -12,7 +12,25 @@
       <title>Briefing de noticias</title>
       <link>https://tokao.github.io/audio-briefing/</link>
     </image>
-    <item><title>Briefing de noticias, lunes 9 de noviembre de 2026</title><description>Mundo, ciberseguridad, España, Barcelona, Bilbao-Bizkaia, Ginebra, mercados y tiempo. Edición del 9 de noviembre de 2026. Versión escrita: https://files.instinct.com/i5rehfe7h676-briefing-del-lunes-9-de-noviembre</description><enclosure url="https://tokao.github.io/audio-briefing/briefing-2026-11-09.mp3" length="3833856" type="audio/mpeg" /><guid>https://tokao.github.io/audio-briefing/briefing-2026-11-09.mp3</guid><pubDate>Mon, 09 Nov 2026 04:30:00 +0000</pubDate><itunes:duration>639</itunes:duration><itunes:image href="https://tokao.github.io/audio-briefing/1-portada-1400.jpg" /></item><item>
+    <item>
+      <title>Briefing de noticias, martes 10 de noviembre de 2026</title>
+      <description>Mundo, ciberseguridad, España, Barcelona, Bilbao-Bizkaia, Ginebra, mercados y tiempo. Edición del 10 de noviembre de 2026. Versión escrita: https://files.instinct.com/uubth4w37wz4-briefing-del-martes-10-de-noviembre</description>
+      <enclosure url="https://tokao.github.io/audio-briefing/briefing-2026-11-10.mp3" length="3098592" type="audio/mpeg" />
+      <guid>https://tokao.github.io/audio-briefing/briefing-2026-11-10.mp3</guid>
+      <pubDate>Tue, 10 Nov 2026 04:30:00 +0000</pubDate>
+      <itunes:duration>516</itunes:duration>
+      <itunes:image href="https://tokao.github.io/audio-briefing/1-portada-1400.jpg" />
+    </item>
+    <item>
+      <title>Briefing de noticias, lunes 9 de noviembre de 2026</title>
+      <description>Mundo, ciberseguridad, España, Barcelona, Bilbao-Bizkaia, Ginebra, mercados y tiempo. Edición del 9 de noviembre de 2026. Versión escrita: https://files.instinct.com/i5rehfe7h676-briefing-del-lunes-9-de-noviembre</description>
+      <enclosure url="https://tokao.github.io/audio-briefing/briefing-2026-11-09.mp3" length="3833856" type="audio/mpeg" />
+      <guid>https://tokao.github.io/audio-briefing/briefing-2026-11-09.mp3</guid>
+      <pubDate>Mon, 09 Nov 2026 04:30:00 +0000</pubDate>
+      <itunes:duration>639</itunes:duration>
+      <itunes:image href="https://tokao.github.io/audio-briefing/1-portada-1400.jpg" />
+    </item>
+    <item>
       <title>Briefing de noticias, domingo 8 de noviembre de 2026</title>
       <description>Mundo, ciberseguridad, España, Barcelona, Bilbao-Bizkaia, Ginebra, mercados y tiempo. Edición del 8 de noviembre de 2026. Versión escrita: https://files.instinct.com/aogg83fzwrme-briefing-del-domingo-8-de-noviembre</description>
       <enclosure url="https://tokao.github.io/audio-briefing/briefing-2026-11-08.mp3" length="3744813" type="audio/mpeg" />
@@ -108,13 +126,6 @@
       <pubDate>Fri, 23 Oct 2026 14:10:00 +0000</pubDate>
       <itunes:duration>600</itunes:duration>
       <itunes:image href="https://tokao.github.io/audio-briefing/1-portada-1400.jpg" />
-    </item>
-    <item>
-      <title>Prueba de audio</title>
-      <description>Episodio de prueba.</description>
-      <enclosure url="https://tokao.github.io/audio-briefing/episodio-prueba.mp3" length="83427" type="audio/mpeg" />
-      <guid>https://tokao.github.io/audio-briefing/episodio-prueba.mp3</guid>
-      <pubDate>Fri, 23 Oct 2026 13:17:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
